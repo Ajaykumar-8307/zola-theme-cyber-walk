@@ -65,9 +65,11 @@ Released under the **MIT License**.
 
 ## Support
 <div align="center">
-**Made with ❤️ and ☕ by the Plantacerium**
+
+  **Made with ❤️ and ☕ by the Plantacerium**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
 
 ⭐ **Star us on GitHub** ⭐
 </div>
+
